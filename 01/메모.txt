@@ -1,0 +1,20 @@
+엘리스 코딩 첫날
+js@elicer.com 
+
+핑 시트? 
+
+prettier
+alt + shift + f => configure 누르면 자동정렬됨
+
+
+ctrl + shift + p => 명령창 뜸
+(여기서 emmet wrap 치고  li 치면 태그 자동 생성됨)
+
+- https://github.com/kamranahmedse/developer-roadmap
+
+1. cs 지식
+- [https://github.com/devham76/tech-interview-study]
+- [https://github.com/WeareSoft/tech-interview]
+- [https://github.com/gyoogle/tech-interview-for-developer] 
+2. 알고리즘 (프로그래머스, 백준) 엘리스에서 코테 병행 
+3. 토이프로젝트 (기록된, 블로그, 깃허브)
